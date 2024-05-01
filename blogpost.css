@@ -1,0 +1,305 @@
+.navbar {
+  background-color: #eeedff;
+}
+.header {
+  text-align: center;
+  color: #210d9d;
+  font-size: 40px;
+  font-family: Jacques Francois;
+  font-weight: 400;
+  word-wrap: break-word
+    "
+}
+.nav-text {
+ padding-top:15px; color: black; font-size: 20px; font-family: Inria Serif; font-weight: 400; word-wrap: break-word";
+}
+a{
+  text-decoration: none;
+}
+.cardclub {
+  width: 70%;
+  height: 100%;
+  background-color: #e0e3ff;
+}
+.title {
+  padding: 20px;
+  margin-left: 90px;
+}
+.row {
+  padding: 30px;
+}
+.mobile {
+  display: none;
+}
+.sqr1 {
+  width: 779px;
+  height: 752px;
+  background-color: #eeedff;
+}
+
+.sqr2 {
+  position: relative;
+  top: 20px;
+  left: 102px;
+  width: 787px;
+  height: 762px;
+  background-color: #e0e3ff;
+}
+
+.sqr1-text {
+  padding-left: 102px;
+  padding-top: 50px;
+}
+.circle {
+  width: 93px;
+  height: 77px;
+  margin-left: 20px;
+  border-radius: 100%;
+  background-color: #2e3cbb;
+}
+
+.circle2 {
+  margin-left: 80px;
+}
+/* COMMENT SECTION */
+.Rectangle3 {
+  width: 762px;
+  height: 787px;
+  left: 0px;
+  top: 706px;
+  position: absolute;
+  background: #eeedff;
+}
+.Rectangle4 {
+  width: 752px;
+  height: 779px;
+  left: 246px;
+  top: 811px;
+  position: absolute;
+  background: #e0e3ff;
+}
+.Sarah7032024 {
+  left: 391px;
+  top: 1145px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Damien15022024 {
+  left: 472px;
+  top: 1040px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.YeahTheyDo {
+  left: 472px;
+  top: 1070px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.GreatClubs {
+  left: 393px;
+  top: 1169px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Ellipse1 {
+  width: 93px;
+  height: 77px;
+  left: 288px;
+  top: 929px;
+  position: absolute;
+  background: #2e3cbb;
+  border-radius: 9999px;
+}
+.Ellipse2 {
+  width: 93px;
+  height: 77px;
+  left: 368px;
+  top: 1028px;
+  position: absolute;
+  background: #2e3cbb;
+  border-radius: 9999px;
+}
+.LeaveAComment {
+  left: 246px;
+  top: 754px;
+  position: absolute;
+  color: #0d0c0c;
+  font-size: 36px;
+  font-family: Times New Roman;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Comments {
+  left: 271px;
+  top: 855px;
+  position: absolute;
+  color: black;
+  font-size: 36px;
+  font-family: Times New Roman;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Jason15022024 {
+  left: 391px;
+  top: 929px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.ThisClubsLookInteresting {
+  left: 393px;
+  top: 954px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.SubmitAComment {
+  width: 235px;
+  left: 294px;
+  top: 1263px;
+  position: absolute;
+  color: black;
+  font-size: 24px;
+  font-family: Times New Roman;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Rectangle9 {
+  width: 675px;
+  height: 167px;
+  left: 287px;
+  top: 1315px;
+  position: absolute;
+}
+.Rectangle10 {
+  width: 98px;
+  height: 34px;
+  left: 864px;
+  top: 944px;
+  position: absolute;
+  background: #eeedff;
+}
+.Rectangle11 {
+  width: 98px;
+  height: 34px;
+  left: 864px;
+  top: 1049px;
+  position: absolute;
+  background: #eeedff;
+}
+.Rectangle12 {
+  width: 98px;
+  height: 34px;
+  left: 864px;
+  top: 1154px;
+  position: absolute;
+  background: #eeedff;
+}
+.Reply {
+  width: 52px;
+  left: 886px;
+  top: 952px;
+  position: absolute;
+  text-align: center;
+  color: #070707;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Rectangle21 {
+  width: 160px;
+  height: 51px;
+  left: 802px;
+  top: 1457px;
+  position: absolute;
+  background: linear-gradient(0deg, #085cfe 0%, #085cfe 100%),
+    linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%);
+}
+.SubmitComment {
+  width: 135px;
+  height: 50px;
+  left: 815px;
+  top: 1461px;
+  position: absolute;
+  text-align: center;
+  background-color: #085cfe;
+  color: black;
+  font-size: 16px;
+  font-family: Times New Roman;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.Rectangle22 {
+  width: 674px;
+  height: 121px;
+  left: 288px;
+  top: 1315px;
+  position: absolute;
+  background: #eeedff;
+}
+
+@media screen and (max-width: 1098px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+  .card2 {
+    display: block;
+  }
+}
+
+.link-grey {
+  color: #aaa;
+}
+.link-grey:hover {
+  color: #00913b;
+}
+
+.Reply {
+  background-color: #eeedff;
+}
+.submitbtn {
+  background-color: #085cfe;
+}
+.commentscard {
+  background-color: #e0e3ff;
+}
+
+@media screen and (max-width: 676px) {
+  /* .nav-text{
+        font-size: smaller;
+        padding: 20px;
+        margin-left: 30px;
+     } */
+
+  .header {
+    font-size: 20px;
+  }
+}

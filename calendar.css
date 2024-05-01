@@ -1,0 +1,89 @@
+body {
+  display: flex;
+  flex-direction: row;
+}
+/*Side bar*/
+nav {
+  text-align: center;
+  background-color: #210d9d;
+  
+}
+
+nav a{
+    background-color: white;
+    height: 40px;
+   text-decoration: none;
+  margin-bottom: 5px;
+   
+}
+
+.nav-link:hover{
+  background-color: #210d9d;
+  color: white;
+}
+
+nav a:hover{
+    color: none;
+}
+
+.nav-link{
+    background-color: white;
+    border-radius: 5px;
+     color: black;
+}
+
+
+.navbar-brand{
+    height: 70px;
+    text-align: center;
+}
+
+/*Search and filter*/
+.filtering {
+  height: 70px;
+  padding: 20px;
+  align-items: center;
+  background-color: #210d9d;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.search{
+width: 300px;
+background-color: white;
+padding: 2px;
+align-items: center;
+}
+
+.search input{
+    outline: none;
+    border: none;
+}
+
+.search i{
+    color: grey;
+    font-size: 20px;
+}
+
+
+
+/*Table*/
+table {
+  width: 100%;
+  margin-top: 50px;
+}
+th{
+    color: white;
+    background-color: #210d9d;
+    padding: 10px;
+}
+
+table,
+th,
+td {
+  border-bottom: 1px solid gray;
+}
+
+#my-table tr.past {
+  background-color: #ff2929;
+}
